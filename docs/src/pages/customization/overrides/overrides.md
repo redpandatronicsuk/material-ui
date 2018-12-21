@@ -131,7 +131,7 @@ const styles = {
 compiles to:
 
 ```css
-.root-x.disable-x {
+.root-x.disabled-x {
   color: white;
 }
 ```
